@@ -1,13 +1,16 @@
+/* To make the heading centred with color white and top margin 20 pixels */
 #title{
   margin-top: 20px;
   text-align: center;
   color: white;
 
 }
-
+/* Used as a spacing between heading and cards */
 .container{
   margin-top: 100px;
 }
+
+/* Used to apply background image with 50% opacity. The image is covering the entire background with centered position */
 body{
   background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("new.svg");
 
