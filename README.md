@@ -6,7 +6,5 @@ might seems initially it is a daunting task for beginners. So this project is fo
 So feel free to give your reviews and star the repository if you liked the project.
 
 ##Sample Screenshot
-<p>
- 
-<img src="narcos.png">
-</p>
+
+![alt text]()
