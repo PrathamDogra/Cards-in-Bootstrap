@@ -7,4 +7,4 @@ So feel free to give your reviews and star the repository if you liked the proje
 
 ##Sample Screenshot
 
-![alt text]()
+![alt text](https://github.com/PrathamDogra/Cards-in-Bootstrap/blob/master/Images/narcos.png)
